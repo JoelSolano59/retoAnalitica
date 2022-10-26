@@ -1,0 +1,22 @@
+Mapas de calor y boxplots Actividad día 3.
+
+¿Hay alguna variable que no aporte información?
+
+Realmente no, ya que absolutamente todos los valores con los que trabajamos en ‘insurance.csv’ nos pueden llegar a dar un valor (inclusive atípico, los cuales igualmente nos muestran hasta qué tan “diferente” puede llegar a ser un valor).
+
+Si tuvieras que eliminar variables, ¿cuáles quitarías y por qué?
+
+Preferiríamos no eliminar ninguna variable, ya que consideramos que todas nos brindan una gran cantidad de información, pero en este caso optamos por eliminar la columna ‘children’ porque es la que menos diferencia ejerce sobre ‘charges’.
+
+¿Existen variables que tengan datos extraños?
+
+Todas las variables cuentan con estos datos; sin embargo, la principal para nosotros fue ‘charges’ comparándolo contra ‘region’, ya que aquí se mostraba una gran discrepancia entre estos 2 valores, sobre todo del lado positivo.
+
+
+Si comparas las variables, ¿todas están en rangos similares? ¿Crees que esto afecte?
+
+Ninguna de las variables está en rango similares, si notamos que esto podría llegar a afectar en cuestiones de encontrar patrones o similitudes.
+
+¿Puedes encontrar grupos qué se parezcan? ¿Qué grupos son estos?
+
+Ninguno de los grupos en nuestro análisis se comportan o se asemejan de forma similar o que tengan algún parentesco. 
