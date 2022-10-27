@@ -1,0 +1,19 @@
+¿Crees que estos centros puedan ser representativos de los datos? ¿Por qué?
+	Sí, ya que gracias a estos podemos anexar más información, la cual nos permita tener una media más clara.
+	
+¿Cómo obtuviste el valor de k a usar?
+	Lo obtuvimos usando “el método del codo”, seleccionando el momento donde se produce ‘la doblez del codo’.
+
+¿Los centros serían más representativos si usaras un valor más alto? ¿Más bajo?
+	Esto nos permitiría ser más “estrictos” en lo que refiere a los requisitos para entrar en cierto grupo, en el equipo nos pareció el valor adecuado, ya que era el punto donde consideramos que eran más representativos los datos en cada grupo.
+
+¿Qué distancia tienen los centros entre sí? ¿Hay alguno que esté muy cercano a otros?
+	Depende completamente de en cuál eje nos estemos basando para medir esta distancia; sin embargo, si hay grupos que se notan más distantes de otros, como podrían ser el grupo morado y café; los cuales se ve claramente la diferencia contra los otros grupos.
+
+¿Qué pasaría con los centros si tuviéramos muchos outliers en el análisis de cajas y bigotes?
+
+	
+	
+
+¿Qué puedes decir de los datos basándose en los centros?
+	
