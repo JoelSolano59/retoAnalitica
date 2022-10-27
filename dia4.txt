@@ -11,9 +11,7 @@
 	Depende completamente de en cuál eje nos estemos basando para medir esta distancia; sin embargo, si hay grupos que se notan más distantes de otros, como podrían ser el grupo morado y café; los cuales se ve claramente la diferencia contra los otros grupos.
 
 ¿Qué pasaría con los centros si tuviéramos muchos outliers en el análisis de cajas y bigotes?
-
+	Que cambiariamos drasticamente los grupos y como es que estos los tenemos definidos, lo que podria hacer que quedaran particionados de formas extrañas.
 	
-	
-
 ¿Qué puedes decir de los datos basándose en los centros?
-	
+	Los centros nos ayudan a ver "El promedio de los promedios" lo que nos da una clara idea de los tipos de valores que encontraremos en ese grupo.
